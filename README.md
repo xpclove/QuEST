@@ -17,7 +17,7 @@ at terminal.
 
 In the root directory, compile the [example](examples/tutorial_example.c) using
 ```bash
-cp examples/tutorial_example tutorial_example
+cp examples/tutorial_example.c tutorial_example.c
 make
 ```
 then run it with
