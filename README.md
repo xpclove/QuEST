@@ -11,7 +11,7 @@ Please report errors or feedback to anna.brown@oerc.ox.ac.uk
 
 Copy or clone this repository to your machine. E.g. in the desired directory, enter
 ```bash
-git clone https://github.com/TysonRayJones/QuEST.git
+git clone https://github.com/aniabrown/QuEST.git
 ```
 at terminal.
 
